@@ -193,6 +193,17 @@ transition: fade
 - **Security**: Separates external signer (transaction submission) from Asset Signer PDA (action signing).
 
 ---
+transition: fade
+---
+
+# Resources
+
+- Execute Asset Signing: https://developers.metaplex.com/core/execute-asset-signing
+- Solana-Ai: https://solana.com/developers/guides/getstarted/intro-to-ai
+- Solana-Agent-Kit: https://github.com/sendaifun/solana-agent-kit/tree/v2/examples
+- Security: https://www.helius.dev/blog/how-to-build-a-secure-ai-agent-on-solana
+
+---
 layout: center
 notes: Encourage questions on mainnet, Anchor
 transition: fade
@@ -205,4 +216,4 @@ transition: fade
 - Advanced Anchor programs?
 - Real Magic Eden integration?
 
-
+---
