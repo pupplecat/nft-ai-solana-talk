@@ -1,0 +1,13 @@
+{
+  "name": "nft-ai-solana-talk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "pupplecat <117352712+pupplecat@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@slidev/cli": "^51.6.0"
+  },
+  "dependencies": {
+    "@slidev/theme-default": "^0.25.0"
+  }
+}
